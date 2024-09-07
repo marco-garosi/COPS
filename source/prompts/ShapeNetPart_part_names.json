@@ -1,0 +1,82 @@
+{
+  "airplane": [
+    "body",
+    "wing",
+    "tail",
+    "engine or frame"
+  ],
+  "bag": [
+    "handle",
+    "body"
+  ],
+  "cap": [
+    "panels or crown",
+    "visor or peak"
+  ],
+  "car": [
+    "roof",
+    "hood",
+    "wheel or tire",
+    "body"
+  ],
+  "chair": [
+    "back",
+    "seat pad",
+    "leg",
+    "armrest"
+  ],
+  "earphone": [
+    "earcup",
+    "headband",
+    "data wire"
+  ],
+  "guitar": [
+    "head or tuners",
+    "neck",
+    "body"
+  ],
+  "knife": [
+    "blade",
+    "handle"
+  ],
+  "lamp": [
+    "leg or wire",
+    "lampshade"
+  ],
+  "laptop": [
+    "keyboard",
+    "screen or monitor"
+  ],
+  "motorbike": [
+    "gas tank",
+    "seat",
+    "wheel",
+    "handles or handlebars",
+    "light",
+    "engine or frame"
+  ],
+  "mug": [
+    "handle",
+    "cup"
+  ],
+  "pistol": [
+    "barrel",
+    "handle",
+    "trigger and guard"
+  ],
+  "rocket": [
+    "body",
+    "fin",
+    "nose cone"
+  ],
+  "skateboard": [
+    "wheel",
+    "deck",
+    "belt for foot"
+  ],
+  "table": [
+    "desktop",
+    "leg or support",
+    "drawer"
+  ]
+}

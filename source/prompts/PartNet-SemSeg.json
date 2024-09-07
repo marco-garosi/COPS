@@ -1,0 +1,142 @@
+{
+  "chair": [
+    "The chair head refers to the topmost part of the chair where the backrest meets the seat.",
+    "The chair back is the vertical support behind the seating area, providing support to the back.",
+    "The chair arm is the horizontal part attached to the sides of the chair, providing support for the arms.",
+    "The chair base is the foundation or support structure upon which the entire chair is built.",
+    "The chair seat is the horizontal surface where a person sits, usually positioned atop the chair base."
+  ],
+  "hat": [
+    "The crown of the hat is the top portion that covers the head, providing shape and structure.",
+    "The brim is the horizontal edge that extends outward from the crown, providing shade and protection.",
+    "The button is a decorative or functional piece located at the top center of the hat, often used to attach accessories or hold parts together.",
+    "The bill, also known as the visor, is the protruding, usually stiff, front portion of the hat that provides shade.",
+    "The panel refers to any individual section of the hat's construction, usually stitched together to form the crown."
+  ],
+  "clock": [
+    "The clock body is the main housing that contains the clock's mechanism and displays the time.",
+    "The base of the clock is the bottom support structure upon which the entire clock stands.",
+    "The pendulum clock base is the lower portion of a pendulum clock that provides stability and support.",
+    "The pendulum clock frame is the framework that holds and suspends the pendulum mechanism.",
+    "The pendulum is a weighted rod or disk suspended from a pivot, which regulates the clock's movement."
+  ],
+  "pot": [
+    "The pot body is the main container, usually cylindrical or round, used for holding or cooking substances.",
+    "The pot base is the bottom surface that provides stability and support to the entire pot structure.",
+    "The containing things of the pot refer to any items or substances placed within the pot for storage or cooking purposes."
+  ],
+  "refrigerator": [
+    "The refrigerator body is the main compartment that houses the cooling mechanism and shelves for storing food.",
+    "The refrigerator base is the bottom part of the appliance that provides support and stability."
+  ],
+  "bottle": [
+    "The bottle body is the main container, usually cylindrical or flask-shaped, used for holding liquids or substances.",
+    "The lid is the removable or hinged cover that seals the opening of the bottle to prevent spillage or contamination.",
+    "The handle is a protruding part attached to the bottle, providing a grip for holding and pouring liquids."
+  ],
+  "bowl": [
+    "The bowl container is the main concave portion used for holding food, liquids, or other substances.",
+    "The containing things of the bowl refer to any items or substances placed within the bowl for storage or serving purposes.",
+    "The bottom of the bowl is the flat or curved surface that provides stability and support to the entire bowl structure."
+  ],
+  "bag": [
+    "The bag body is the main compartment or pouch used for holding items, typically made of fabric or leather.",
+    "The handle is a strap or loop attached to the bag, designed for carrying it by hand.",
+    "The shoulder strap is a longer strap attached to the bag, designed for carrying it over the shoulder."
+  ],
+  "dishwasher": [
+    "The dishwasher body is the main housing that contains the washing mechanism and racks for holding dishes.",
+    "The dishwasher base is the bottom part of the appliance that provides support and stability."
+  ],
+  "table": [
+    "The ping pong net is the mesh barrier placed across the middle of the table to divide it for gameplay.",
+    "The tabletop is the flat horizontal surface where items are placed or activities are conducted.",
+    "The table base is the support structure beneath the tabletop that holds the entire table together.",
+    "The bench is a long seat without a backrest, typically placed alongside a table for seating."
+  ],
+  "faucet": [
+    "The switch is the lever or knob that controls the flow of water, allowing it to be turned on or off.",
+    "The hose is the flexible tube that carries water from the plumbing to the spout, allowing for directed flow.",
+    "The spout is the nozzle or outlet where water flows out of the faucet and into the sink or basin.",
+    "The frame is the main structural support of the faucet, holding all the components together."
+  ],
+  "mug": [
+    "The mug body is the main vessel used for holding and drinking beverages, typically cylindrical with a handle.",
+    "The handle is the curved or looped appendage attached to the side of the mug, providing a grip for holding.",
+    "The containing things of the mug refer to any liquids or substances held within the mug for consumption."
+  ],
+  "laptop": [
+    "The screen side is the part of the laptop where the display screen is located, typically facing the user.",
+    "The base side is the underside of the laptop housing the keyboard, ports, and internal components."
+  ],
+  "cuttinginstrument": [
+    "The handle side is the portion of the cutting instrument designed for gripping and manipulation.",
+    "The blade side is the sharpened or cutting portion of the instrument used for slicing or shearing."
+  ],
+  "lamp": [
+    "The lamp unit group refers to the collection of components that make up the entire lamp assembly.",
+    "The lamp body is the main structure housing the light bulb and electrical components.",
+    "The chain is a series of connected links used for hanging or suspending the lamp from a ceiling or fixture.",
+    "The lamp base is the bottom part of the lamp that provides stability and support.",
+    "The power cord is the insulated electrical cable that connects the lamp to a power source.",
+    "The pendant lamp unit is a type of lamp that hangs from the ceiling, typically suspended by a cord or chain.",
+    "The lamp unit is the entire assembly of components used for generating light, including the bulb, socket, and shade.",
+    "The lamp post is a tall vertical support structure that holds the lamp unit, often used in outdoor lighting fixtures.",
+    "The street lamp base is the foundation or support structure upon which the entire street lamp is built."
+  ],
+  "bed": [
+    "The bed sleep area is the main surface where a person lies down for rest or sleep.",
+    "The bed frame is the structural support system that holds the mattress and sleep area above the ground.",
+    "The ladder is a set of steps or rungs used for climbing onto or off of elevated beds, such as bunk beds or lofts."
+  ],
+  "earphone": [
+    "The earbud unit is the component of the earphone that houses the speaker and is inserted into the ear canal.",
+    "The earbud connector wire is the cable that connects the earbuds to the audio source.",
+    "The headband is the adjustable strap or band that connects the earpieces and rests on the user's head, providing support and stability.",
+    "The earcup unit is the part of over-ear headphones that houses the speaker and covers the user's ears.",
+    "The connector wire is the cable that connects the earphones to the audio source, typically terminating in a plug."
+  ],
+  "storagefurniture": [
+    "The countertop is the flat horizontal surface on top of storage furniture, often used for placing items or preparing food.",
+    "The shelf is a horizontal platform within storage furniture used for storing or organizing items.",
+    "The cabinet frame is the structural framework that forms the skeleton of the storage furniture, providing support and shape.",
+    "The drawer is a sliding compartment within storage furniture used for storing items, accessed by pulling it out from the cabinet.",
+    "The cabinet base is the bottom part of storage furniture that provides support and stability, often raising it off the ground.",
+    "The cabinet door is the hinged or sliding panel that covers the front of a storage cabinet, providing access to its contents."
+  ],
+  "scissors": [
+    "The blade is the sharpened cutting edge of the scissors used for cutting materials.",
+    "The handle is the gripping portion of the scissors, usually made of plastic or metal, used for holding and operating the blades."
+  ],
+  "microwave": [
+    "The body of the microwave is the main housing that contains the control panel, cooking chamber, and door.",
+    "The base of the microwave is the bottom surface that provides support and stability to the entire appliance."
+  ],
+  "trashcan": [
+    "The container is the main receptacle of the trash can, used for holding waste materials.",
+    "The outside frame is the structural support system surrounding the container, providing stability and shape to the trash can.",
+    "The base is the bottom portion of the trash can that provides support and stability, typically in contact with the ground.",
+    "The cover is the lid or top portion of the trash can that opens and closes to conceal or reveal the container."
+  ],
+  "door": [
+    "The outside frame is the structural support system surrounding the door, providing stability and shape to the door set.",
+    "The door is the movable panel that opens and closes to allow passage through the doorway, typically hinged or sliding."
+  ],
+  "keyboard": [
+    "The frame is the structural support system of the keyboard, providing stability and shape to the keys and internal components.",
+    "The key is the individual button or switch on the keyboard that is pressed by the user to input characters or commands."
+  ],
+  "display": [
+    "The display screen is the flat panel or surface on which visual information is displayed, such as images or text.",
+    "The base is the bottom portion of the display that provides support and stability, typically resting on a desk or stand."
+  ],
+  "knife": [
+    "The handle side is the portion of the knife designed for gripping and manipulation.",
+    "The blade side is the sharpened or cutting portion of the knife used for slicing or shearing."
+  ],
+  "vase": [
+    "The body of the vase is the main container, usually cylindrical or urn-shaped, used for holding flowers or decorative items.",
+    "The base of the vase is the bottom surface that provides support and stability to the entire structure.",
+    "The containing things of the vase refer to any items or substances placed within the vase for decorative purposes."
+  ]
+}

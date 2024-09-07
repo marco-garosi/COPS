@@ -1,0 +1,142 @@
+{
+  "chair": [
+    "The head of the chair is the top part of the chair",
+    "The back of the chair is the part where the person leans on",
+    "The arm of the chair is the part where the person rests the arms",
+    "The base of the chair is the part where the chair is supported",
+    "The seat of the chair is the part where the person sits"
+  ],
+  "hat": [
+    "The crown of the hat is the top part of the hat",
+    "The brim of the hat is the part that extends outwards",
+    "The button of the hat is the part that holds the hat together",
+    "The bill of the hat is the part that extends outwards",
+    "The panel of the hat is the part that holds the hat together"
+  ],
+  "clock": [
+    "The body of the clock is the main part of the clock",
+    "The base of the clock is the part where the clock is supported",
+    "The pendulum clock base is the part where the pendulum is supported",
+    "The pendulum clock frame is the part where the pendulum is supported",
+    "The pendulum is the part that swings"
+  ],
+  "pot": [
+    "The body of the pot is the main part of the pot",
+    "The base of the pot is the part where the pot is supported",
+    "The containing things of the pot is the part where the pot contains things"
+  ],
+  "refrigerator": [
+    "The body of the refrigerator is the main part of the refrigerator",
+    "The base of the refrigerator is the part where the refrigerator is supported"
+  ],
+  "bottle": [
+    "The body of the bottle is the main part of the bottle",
+    "The lid of the bottle is the part that closes the bottle",
+    "The handle of the bottle is the part where the person holds the bottle"
+  ],
+  "bowl": [
+    "The container of the bowl is the main part of the bowl",
+    "The containing things of the bowl is the part where the bowl contains things",
+    "The bottom of the bowl is the part where the bowl is supported"
+  ],
+  "bag": [
+    "The bag body is the main part of the bag",
+    "The handle of the bag is the part where the person holds the bag",
+    "The shoulder strap of the bag is the part where the person holds the bag"
+  ],
+  "dishwasher": [
+    "The body of the dishwasher is the main part of the dishwasher",
+    "The base of the dishwasher is the part where the dishwasher is supported"
+  ],
+  "table": [
+    "The ping pong net is the part that separates the table",
+    "The tabletop is the main part of the table",
+    "The table base is the part where the table is supported",
+    "The bench is the part where the person sits"
+  ],
+  "faucet": [
+    "The switch is the part that turns the faucet on and off",
+    "The hose is the part that carries the water",
+    "The spout is the part where the water comes out",
+    "The frame is the main part of the faucet"
+  ],
+  "mug": [
+    "The body of the mug is the main part of the mug",
+    "The handle of the mug is the part where the person holds the mug",
+    "The containing things of the mug is the part where the mug contains things"
+  ],
+  "laptop": [
+    "The screen side is the part where the screen is",
+    "The base side is the main part of the laptop"
+  ],
+  "cuttinginstrument": [
+    "The handle side is the part where the person holds the cutting instrument",
+    "The blade side is the part where the cutting instrument cuts"
+  ],
+  "lamp": [
+    "The lamp unit group is the main part of the lamp",
+    "The lamp body is the main part of the lamp",
+    "The chain is the part that holds the lamp",
+    "The lamp base is the part where the lamp is supported",
+    "The power cord is the part that carries the electricity",
+    "The pendant lamp unit is the main part of the lamp",
+    "The lamp unit is the main part of the lamp",
+    "The lamp post is the main part of the lamp",
+    "The street lamp base is the part where the lamp is supported"
+  ],
+  "bed": [
+    "The bed sleep area is the main part of the bed",
+    "The bed frame is the part where the bed is supported",
+    "The ladder is the part where the person climbs"
+  ],
+  "earphone": [
+    "The earbud unit is the main part of the earphone",
+    "The earbud connector wire is the part that connects the earbud",
+    "The head band is the part where the person wears the earphone",
+    "The earcup unit is the main part of the earphone",
+    "The connector wire is the part that connects the earphone"
+  ],
+  "storagefurniture": [
+    "The countertop is the main part of the storage furniture",
+    "The shelf is the part where the things are placed",
+    "The cabinet frame is the main part of the storage furniture",
+    "The drawer is the part where the things are placed",
+    "The cabinet base is the part where the storage furniture is supported",
+    "The cabinet door is the part that opens and closes"
+  ],
+  "scissors": [
+    "The blade is the part where the scissors cut",
+    "The handle is the part where the person holds the scissors"
+  ],
+  "microwave": [
+    "The body of the microwave is the main part of the microwave",
+    "The base of the microwave is the part where the microwave is supported"
+  ],
+  "trashcan": [
+    "The container is the main part of the trash can",
+    "The outside frame is the part where the trash can is supported",
+    "The base is the part where the trash can is supported",
+    "The cover is the part that opens and closes"
+  ],
+  "door": [
+    "The outside frame is the part where the door is supported",
+    "The door is the main part of the door"
+  ],
+  "keyboard": [
+    "The frame is the main part of the keyboard",
+    "The key is the part where the person presses"
+  ],
+  "display": [
+    "The display screen is the main part of the display",
+    "The base is the part where the display is supported"
+  ],
+  "knife": [
+    "The handle side is the part where the person holds the knife",
+    "The blade side is the part where the knife cuts"
+  ],
+  "vase": [
+    "The body of the vase is the main part of the vase",
+    "The base of the vase is the part where the vase is supported",
+    "The containing things of the vase is the part where the vase contains things"
+  ]
+}

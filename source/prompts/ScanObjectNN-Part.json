@@ -1,0 +1,94 @@
+{
+  "bag": [
+    "the background of the bag",
+    "the main part of the bag, typically where items are stored",
+    "the handle of the bag, used for carrying it",
+    "the shoulder strap of the bag, an alternative carrying method"
+  ],
+  "bin": [
+    "the background of the bin",
+    "the main part of the bin, where items are stored",
+    "the outside frame of the bin, providing structural support",
+    "the cover of the bin, used to conceal the contents"
+  ],
+  "box": [
+    "the background of the box",
+    "the main part of the box, typically where items are stored",
+    "the part of the box containing things, holds the items securely",
+    "the bottom of the box, providing support to the contents",
+    "the cover of the box, used to close and secure the box"
+  ],
+  "cabinet": [
+    "the background of the cabinet",
+    "the countertop of the cabinet, providing a surface for various activities",
+    "the shelf of the cabinet, for organizing and storing items",
+    "the frame of the cabinet, providing structural support",
+    "the drawer of the cabinet, for storing items out of sight",
+    "the base of the cabinet, providing stability",
+    "the door of the cabinet, used to open and close the storage space"
+  ],
+  "chair": [
+    "the background of the chair",
+    "the back of the chair, providing support for the back",
+    "the arm of the chair, providing support for the arms",
+    "the base of the chair, providing stability",
+    "the seat of the chair, where a person sits"
+  ],
+  "desk": [
+    "the background of the desk",
+    "the desktop of the desk, providing a work surface",
+    "the base of the desk, providing support and stability",
+    "the drawer of the desk, for storing items out of sight"
+  ],
+  "display": [
+    "the background of the display",
+    "the screen of the display, where images or information are displayed",
+    "the base of the display, providing support and stability"
+  ],
+  "door": [
+    "the background of the door",
+    "the outside frame of the door, providing structural support and mounting",
+    "the door itself, used to open and close an entrance or enclosure"
+  ],
+  "shelf": [
+    "the background of the shelf",
+    "the frame of the shelf, providing structural support",
+    "the surface of the shelf, where items are placed",
+    "the thing on the shelf, referring to the items placed on it"
+  ],
+  "table": [
+    "the background of the table",
+    "the tabletop of the table, providing a flat surface for various activities",
+    "the base of the table, providing support and stability"
+  ],
+  "bed": [
+    "the background of the bed",
+    "the sleep area of the bed, where a person sleeps",
+    "the frame of the bed, providing support for the mattress and sleepers"
+  ],
+  "pillow": [
+    "the background of the pillow",
+    "the pillow itself, used to support the head and neck during sleep"
+  ],
+  "sink": [
+    "the background of the sink",
+    "the bowl of the sink, used for holding water and washing items",
+    "the faucet of the sink, used to control the flow of water",
+    "the drain of the sink, used to remove wastewater"
+  ],
+  "sofa": [
+    "the background of the sofa",
+    "the back of the sofa, providing support and comfort for sitting",
+    "the arm of the sofa, providing support for the arms",
+    "the base of the sofa, providing support and stability",
+    "the seat of the sofa, where a person sits"
+  ],
+  "toilet": [
+    "the background of the toilet",
+    "the tank of the toilet, storing water for flushing",
+    "the bowl of the toilet, where waste is deposited",
+    "the cover of the toilet, used to close the bowl when not in use",
+    "the seat of the toilet, where a person sits",
+    "the base of the toilet, providing support and stability"
+  ]
+}

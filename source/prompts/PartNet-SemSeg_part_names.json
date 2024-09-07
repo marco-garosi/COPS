@@ -1,0 +1,142 @@
+{
+  "chair": [
+    "chair head",
+    "chair back",
+    "chair arm",
+    "chair base",
+    "chair seat"
+  ],
+  "hat": [
+    "crown",
+    "brim",
+    "button",
+    "bill",
+    "panel"
+  ],
+  "clock": [
+    "clock body",
+    "base",
+    "pendulum clock base",
+    "pendulum clock frame",
+    "pendulum"
+  ],
+  "pot": [
+    "body",
+    "base",
+    "containing things"
+  ],
+  "refrigerator": [
+    "body",
+    "base"
+  ],
+  "bottle": [
+    "body",
+    "lid",
+    "handle"
+  ],
+  "bowl": [
+    "container",
+    "containing things",
+    "bottom"
+  ],
+  "bag": [
+    "bag body",
+    "handle",
+    "shoulder strap"
+  ],
+  "dishwasher": [
+    "body",
+    "base"
+  ],
+  "table": [
+    "ping pong net",
+    "tabletop",
+    "table base",
+    "bench"
+  ],
+  "faucet": [
+    "switch",
+    "hose",
+    "spout",
+    "frame"
+  ],
+  "mug": [
+    "body",
+    "handle",
+    "containing things"
+  ],
+  "laptop": [
+    "screen side",
+    "base side"
+  ],
+  "cuttinginstrument": [
+    "handle side",
+    "blade side"
+  ],
+  "lamp": [
+    "lamp unit group",
+    "lamp body",
+    "chain",
+    "lamp base",
+    "power cord",
+    "pendant lamp unit",
+    "lamp unit",
+    "lamp post",
+    "street lamp base"
+  ],
+  "bed": [
+    "bed sleep area",
+    "bed frame",
+    "ladder"
+  ],
+  "earphone": [
+    "earbud unit",
+    "earbud connector wire",
+    "head band",
+    "earcup unit",
+    "connector wire"
+  ],
+  "storagefurniture": [
+    "countertop",
+    "shelf",
+    "cabinet frame",
+    "drawer",
+    "cabinet base",
+    "cabinet door"
+  ],
+  "scissors": [
+    "blade",
+    "handle"
+  ],
+  "microwave": [
+    "body",
+    "base"
+  ],
+  "trashcan": [
+    "container",
+    "outside frame",
+    "base",
+    "cover"
+  ],
+  "door": [
+    "outside frame",
+    "door"
+  ],
+  "keyboard": [
+    "frame",
+    "key"
+  ],
+  "display": [
+    "display screen",
+    "base"
+  ],
+  "knife": [
+    "handle side",
+    "blade side"
+  ],
+  "vase": [
+    "body",
+    "base",
+    "containing things"
+  ]
+}

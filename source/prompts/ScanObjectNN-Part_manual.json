@@ -1,0 +1,94 @@
+{
+  "bag": [
+    "the background of the bag",
+    "the main part of the bag",
+    "the handle of the bag",
+    "the shoulder strap of the bag"
+  ],
+  "bin": [
+    "the background of the bin",
+    "the main part of the bin",
+    "the outside frame of the bin",
+    "the cover of the bin"
+  ],
+  "box": [
+    "the background of the box",
+    "the main part of the box",
+    "the part of the box containing things",
+    "the bottom of the box",
+    "the cover of the box"
+  ],
+  "cabinet": [
+    "the background of the cabinet",
+    "the countertop of the cabinet",
+    "the shelf of the cabinet",
+    "the frame of the cabinet",
+    "the drawer of the cabinet",
+    "the base of the cabinet",
+    "the door of the cabinet"
+  ],
+  "chair": [
+    "the background of the chair",
+    "the back of the chair",
+    "the arm of the chair",
+    "the base of the chair",
+    "the seat of the chair"
+  ],
+  "desk": [
+    "the background of the desk",
+    "the desktop of the desk",
+    "the base of the desk",
+    "the drawer of the desk"
+  ],
+  "display": [
+    "the background of the display",
+    "the screen of the display",
+    "the base of the display"
+  ],
+  "door": [
+    "the background of the door",
+    "the outside frame of the door",
+    "the door itself"
+  ],
+  "shelf": [
+    "the background of the shelf",
+    "the frame of the shelf",
+    "the surface of the shelf",
+    "the thing on the shelf"
+  ],
+  "table": [
+    "the background of the table",
+    "the tabletop of the table",
+    "the base of the table"
+  ],
+  "bed": [
+    "the background of the bed",
+    "the sleep area of the bed",
+    "the frame of the bed"
+  ],
+  "pillow": [
+    "the background of the pillow",
+    "the pillow itself"
+  ],
+  "sink": [
+    "the background of the sink",
+    "the bowl of the sink",
+    "the faucet of the sink",
+    "the drain of the sink"
+  ],
+  "sofa": [
+    "the background of the sofa",
+    "the back of the sofa",
+    "the arm of the sofa",
+    "the base of the sofa",
+    "the seat of the sofa"
+  ],
+  "toilet": [
+    "the background of the toilet",
+    "the tank of the toilet",
+    "the bowl of the toilet",
+    "the cover of the toilet",
+    "the seat of the toilet",
+    "the base of the toilet"
+  ]
+}

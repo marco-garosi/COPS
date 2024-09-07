@@ -1,0 +1,94 @@
+{
+  "bag": [
+    "background",
+    "bag body",
+    "handle",
+    "shoulder strap"
+  ],
+  "bin": [
+    "background",
+    "container",
+    "outside frame",
+    "cover"
+  ],
+  "box": [
+    "background",
+    "container",
+    "containing things",
+    "bottom",
+    "cover"
+  ],
+  "cabinet": [
+    "background",
+    "countertop",
+    "shelf",
+    "frame",
+    "drawer",
+    "base",
+    "door"
+  ],
+  "chair": [
+    "background",
+    "back",
+    "arm",
+    "base",
+    "seat"
+  ],
+  "desk": [
+    "background",
+    "desktop",
+    "base",
+    "drawer"
+  ],
+  "display": [
+    "background",
+    "screen",
+    "base"
+  ],
+  "door": [
+    "background",
+    "outside frame",
+    "door"
+  ],
+  "shelf": [
+    "background",
+    "frame",
+    "surface",
+    "thing"
+  ],
+  "table": [
+    "background",
+    "tabletop",
+    "base"
+  ],
+  "bed": [
+    "background",
+    "sleep area",
+    "frame"
+  ],
+  "pillow": [
+    "background",
+    "pillow"
+  ],
+  "sink": [
+    "background",
+    "bowl",
+    "faucet",
+    "drain"
+  ],
+  "sofa": [
+    "background",
+    "back",
+    "arm",
+    "base",
+    "seat"
+  ],
+  "toilet": [
+    "background",
+    "tank",
+    "bowl",
+    "cover",
+    "seat",
+    "base"
+  ]
+}

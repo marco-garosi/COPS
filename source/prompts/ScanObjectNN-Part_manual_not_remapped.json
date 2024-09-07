@@ -1,0 +1,81 @@
+{
+  "bag": [
+    "the main part of the bag",
+    "the handle of the bag",
+    "the shoulder strap of the bag"
+  ],
+  "bin": [
+    "the main part of the bin",
+    "the outside frame of the bin",
+    "the base of the bin",
+    "the cover of the bin"
+  ],
+  "box": [
+    "the main part of the box",
+    "the part of the box containing things",
+    "the bottom of the box",
+    "the cover of the box"
+  ],
+  "cabinet": [
+    "the countertop of the cabinet",
+    "the shelf of the cabinet",
+    "the frame of the cabinet",
+    "the drawer of the cabinet",
+    "the base of the cabinet",
+    "the door of the cabinet"
+  ],
+  "chair": [
+    "the head of the chair",
+    "the back of the chair",
+    "the arm of the chair",
+    "the base of the chair",
+    "the seat of the chair"
+  ],
+  "desk": [
+    "the desktop of the desk",
+    "the base of the desk",
+    "the drawer of the desk"
+  ],
+  "display": [
+    "the screen of the display",
+    "the base of the display"
+  ],
+  "door": [
+    "the outside frame of the door",
+    "the door itself"
+  ],
+  "shelf": [
+    "the frame of the shelf",
+    "the surface of the shelf",
+    "the thing on the shelf"
+  ],
+  "table": [
+    "the tabletop of the table",
+    "the base of the table"
+  ],
+  "bed": [
+    "the sleep area of the bed",
+    "the frame of the bed"
+  ],
+  "pillow": [
+    "the pillow itself"
+  ],
+  "sink": [
+    "the bowl of the sink",
+    "the faucet of the sink",
+    "the drain of the sink"
+  ],
+  "sofa": [
+    "the back of the sofa",
+    "the arm of the sofa",
+    "the base of the sofa",
+    "the seat of the sofa"
+  ],
+  "toilet": [
+    "the tank of the toilet",
+    "the bowl of the toilet",
+    "the cover of the toilet",
+    "the seat of the toilet",
+    "the base of the toilet"
+  ]
+}

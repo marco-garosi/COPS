@@ -1,0 +1,196 @@
+{
+  "bottle": [
+    "The cap of a bottle is the top part that can be unscrewed to access the contents inside."
+  ],
+  "box": [
+    "The cover of a box is the top part that can be lifted to access the contents inside."
+  ],
+  "bucket": [
+    "The grip of a bucket is the part that is held to carry the bucket."
+  ],
+  "camera": [
+    "A button is a small, usually circular object that is used to capture images with the camera.",
+    "The lens of a camera is the part that focuses the light onto the film or sensor."
+  ],
+  "cart": [
+    "A wheel is a circular object that is used to roll the cart."
+  ],
+  "chair": [
+    "The armrest of a chair is the part that provides support for your arms.",
+    "The backrest of a chair is the part that supports your back.",
+    "The leg of a chair is the part that contacts the ground and supports the weight.",
+    "The seating surface of a chair is the part where you sit.",
+    "A wheel is a circular object that is used to move the chair."
+  ],
+  "clock": [
+    "The pointers of a clock are the parts that move to indicate the time."
+  ],
+  "coffeemachine": [
+    "A button is a small, usually circular object that is used to select brewing options.",
+    "The reservoir of a coffee machine is the part that stores water and coffee grounds.",
+    "A knob is a small, usually circular object that is used to adjust settings on the coffee machine.",
+    "The cover of a coffee machine is the top part that can be opened to access the interior."
+  ],
+  "dishwasher": [
+    "The hatch of a dishwasher is the part that swings open for loading and unloading dishes.",
+    "The grip of a dishwasher is the part that is pulled to open the door."
+  ],
+  "dispenser": [
+    "The spout of a dispenser is the part that dispenses the contents.",
+    "The top of a dispenser is the cover that can be lifted to refill or clean the dispenser."
+  ],
+  "display": [
+    "The base of a display is the part that provides stability and support.",
+    "The screen of a display is the surface that visual information is presented on.",
+    "The stand of a display is the structure that holds and positions the screen."
+  ],
+  "door": [
+    "The frame of a door is the structure that surrounds and supports it.",
+    "The leaf of a door is the movable part that opens and closes the doorway.",
+    "The knob of a door is the component that is turned to operate the latch."
+  ],
+  "eyeglasses": [
+    "The frame of eyeglasses is the part that holds the lenses and connects the temples.",
+    "The temple of eyeglasses is the component that extends over your ears."
+  ],
+  "faucet": [
+    "The nozzle of a faucet is the part from which water flows.",
+    "A lever is a small, usually elongated object that is used to regulate water flow."
+  ],
+  "foldingchair": [
+    "The seating area of a folding chair is the part where you sit."
+  ],
+  "globe": [
+    "The sphere of a globe is the spherical component that represents the Earth's surface."
+  ],
+  "kettle": [
+    "The cover of a kettle is the top part that can be lifted to pour water or fill it.",
+    "The grip of a kettle is the part that is held while pouring.",
+    "The nozzle of a kettle is the part from which water is poured."
+  ],
+  "keyboard": [
+    "The cable of a keyboard is the part that connects it to the computer.",
+    "A key is a small, usually rectangular object that is pressed to input characters."
+  ],
+  "kitchenpot": [
+    "The cover of a kitchen pot is the top part that can be lifted to access the contents inside.",
+    "The grip of a kitchen pot is the part that is held while pouring or moving."
+  ],
+  "knife": [
+    "The cutting edge of a knife is the sharpened part used for slicing.",
+    "The grip of a knife is the part that is held while cutting."
+  ],
+  "lamp": [
+    "The stand of a lamp is the part that provides stability and support.",
+    "The frame of a lamp is the part that holds the light bulb and shade.",
+    "The lightbulb of a lamp is the component that emits light.",
+    "The covering of a lamp is the part that diffuses and softens light."
+  ],
+  "laptop": [
+    "The input area of a laptop is the part where you type.",
+    "The display of a laptop is the surface that shows visuals.",
+    "The hinge of a laptop is the part that allows the screen to tilt.",
+    "The touch-sensitive surface of a laptop is used for cursor control.",
+    "The webcam of a laptop is the component used for video capture."
+  ],
+  "lighter": [
+    "The cover of a lighter is the top part that can be flipped open to expose the ignition mechanism.",
+    "The striker of a lighter is the part that creates the spark.",
+    "A trigger is a small, usually elongated object that is pressed to ignite the lighter."
+  ],
+  "microwave": [
+    "The screen of a microwave is the part that shows cooking settings and time.",
+    "The hatch of a microwave is the part that swings open for loading and unloading food.",
+    "The grip of a microwave is the part that is pulled to open the door.",
+    "A keypad is an array of buttons used to input cooking parameters."
+  ],
+  "mouse": [
+    "A clicker is a small, usually circular object that is pressed to interact with the computer.",
+    "The cable of a mouse is the part that connects it to the computer.",
+    "The roller of a mouse is the part that moves to scroll through content."
+  ],
+  "oven": [
+    "The hatch of an oven is the part that swings open for inserting and removing food.",
+    "A dial is a small, usually circular object that is rotated to set temperature and functions."
+  ],
+  "pen": [
+    "The cap of a pen is the top part that can be removed to reveal the writing tip.",
+    "A clicker is a small, usually circular object that is used to extend or retract the pen tip."
+  ],
+  "phone": [
+    "The cover of a phone is the top part that can be flipped open to access the battery or SIM card.",
+    "A keypad is a set of small, usually circular objects that are pressed to input commands or numbers."
+  ],
+  "pliers": [
+    "The grip of pliers is the part that you hold while using them."
+  ],
+  "printer": [
+    "A button is a small, usually circular object that is used to initiate printing or scanning."
+  ],
+  "refrigerator": [
+    "The door of a refrigerator is the part that swings open to access the food compartments.",
+    "The grip of a refrigerator is the part that you use to pull the door open."
+  ],
+  "remote": [
+    "A remote control typically has an array of small, usually circular objects that are pressed to operate electronic devices."
+  ],
+  "safe": [
+    "The door of a safe is the part that you open to access the contents inside.",
+    "A dial is a small, usually circular object that is used to operate the locking mechanism of the safe.",
+    "A keypad is a set of small, usually rectangular objects that are pressed to input the combination to open the safe."
+  ],
+  "scissors": [
+    "The cutting edge of scissors is the part that slices through material.",
+    "The grip of scissors is the part that you hold.",
+    "The pivot screw of scissors is the part that adjusts the tension between the blades."
+  ],
+  "stapler": [
+    "The body of a stapler is the main structure that houses the staple magazine.",
+    "The cover of a stapler is the top part that can be lifted to reload staples."
+  ],
+  "storagefurniture": [
+    "The door of storage furniture is the part that swings open to access the contents inside.",
+    "The drawer of storage furniture is the part that slides out to access stored items.",
+    "The grip of storage furniture is the part that you use to pull open doors or drawers."
+  ],
+  "suitcase": [
+    "The handle of a suitcase is the part that extends and retracts for carrying.",
+    "A caster is a small, usually circular object that is attached to the suitcase for rolling."
+  ],
+  "switch": [
+    "A switch is a small, usually rectangular object that is toggled to turn a device on or off."
+  ],
+  "table": [
+    "The hatch of a table is the part that flips open to reveal storage space underneath.",
+    "The drawer of a table is the part that slides out to access stored items.",
+    "The leg of a table is the part that supports the tabletop.",
+    "The surface of a table is the part where items are placed.",
+    "A caster is a small, usually circular object that is attached to the table for easy movement.",
+    "The grip of a table is the part that you use to pull open doors or drawers."
+  ],
+  "toaster": [
+    "A button is a small, usually circular object that is used to initiate toasting or adjust settings.",
+    "A lever is a small, usually rectangular object that is moved to adjust the toasting level."
+  ],
+  "toilet": [
+    "The cover of a toilet is the top part that can be lifted for cleaning or maintenance.",
+    "The seating surface of a toilet is the part that you sit on.",
+    "A flush handle is a small, usually elongated object that is pressed to flush the toilet."
+  ],
+  "trashcan": [
+    "The foot pedal of a trash can is the part that you step on to open the lid.",
+    "The cover of a trash can is the top part that can be lifted to deposit trash.",
+    "The door of a trash can is the part that swings open for easier disposal of larger items."
+  ],
+  "usb": [
+    "The cap of a USB is the top part that can be removed to reveal the connector.",
+    "A swivel is a small, usually circular object that is turned to retract or extend the USB connector."
+  ],
+  "washingmachine": [
+    "The hatch of a washing machine is the part that swings open for loading and unloading laundry.",
+    "A control panel is an array of small, usually circular objects that are pressed to select wash cycles and settings."
+  ],
+  "window": [
+    "The sash of a window is the part that slides or swings open to allow ventilation."
+  ]
+}
