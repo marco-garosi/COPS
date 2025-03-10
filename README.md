@@ -7,7 +7,8 @@
 
 # Introduction
 
-Anonymized source code for our submission on 3D point cloud part segmentation.
+Official source code for the paper "3D Part Segmentation via Geometric Aggregation of 2D Visual Features", WACV 2025.
+Work by Marco Garosi, Riccardo Tedoldi, Davide Boscaini, Massimiliano Mancini, Nicu Sebe, and Fabio Poiesi.
 
 ---
 
