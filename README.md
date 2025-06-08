@@ -1,13 +1,17 @@
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Installation](#installation)
+- [Introduction](#introduction)
+- [Installation](#installation)
+  - [Requirements](#requirements)
+  - [Setup](#setup)
+- [Usage](#usage)
+- [References](#references)
 
 ---
 
 # Introduction
 
-Official source code for the paper "3D Part Segmentation via Geometric Aggregation of 2D Visual Features", WACV 2025.
+Official source code for the paper "[3D Part Segmentation via Geometric Aggregation of 2D Visual Features](https://openaccess.thecvf.com/content/WACV2025/papers/Garosi_3D_Part_Segmentation_via_Geometric_Aggregation_of_2D_Visual_Features_WACV_2025_paper.pdf)", WACV 2025.
 Work by Marco Garosi, Riccardo Tedoldi, Davide Boscaini, Massimiliano Mancini, Nicu Sebe, and Fabio Poiesi.
 
 ---
@@ -44,3 +48,30 @@ We refer to the `README.md` file under `tests/` for detailed instructions on how
 * ShapeNetPart is downloaded from torch geometric automatically
 
 Lastly, the `config.py` file shall be edited according to the datasets' location on the file system, so that they can be properly loaded.
+
+
+# References
+If you use this code, please cite our paper:
+
+```
+@inproceedings{DBLP:conf/wacv/GarosiTBMSP25,
+  author       = {Marco Garosi and
+                  Riccardo Tedoldi and
+                  Davide Boscaini and
+                  Massimiliano Mancini and
+                  Nicu Sebe and
+                  Fabio Poiesi},
+  title        = {3D Part Segmentation via Geometric Aggregation of 2D Visual Features},
+  booktitle    = {{IEEE/CVF} Winter Conference on Applications of Computer Vision, {WACV}
+                  2025, Tucson, AZ, USA, February 26 - March 6, 2025},
+  pages        = {3257--3267},
+  publisher    = {{IEEE}},
+  year         = {2025},
+  url          = {https://doi.org/10.1109/WACV61041.2025.00322},
+  doi          = {10.1109/WACV61041.2025.00322},
+  timestamp    = {Sat, 31 May 2025 23:12:26 +0200},
+  biburl       = {https://dblp.org/rec/conf/wacv/GarosiTBMSP25.bib},
+}
+```
+
+
